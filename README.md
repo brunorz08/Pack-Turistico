@@ -1,1 +1,1 @@
-Reserva Pack Turístico
+Aplicacion de consola que aplica concepto de POO desarrollada en C# la cual consiste en la reserva de un pack turístico en donde se aplican distintos tipos de descuento dependiendo la modalidad que se contrate.
